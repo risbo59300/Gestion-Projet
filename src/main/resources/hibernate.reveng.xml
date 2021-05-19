@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="GESTIONPROJETBACK" match-name="DEPARTEMENTS"/>
+  <table-filter match-schema="GESTIONPROJETBACK" match-name="EMPLOYES"/>
+  <table-filter match-schema="GESTIONPROJETBACK" match-name="MODULES"/>
+  <table-filter match-schema="GESTIONPROJETBACK" match-name="PROJETS"/>
+  <table-filter match-schema="GESTIONPROJETBACK" match-name="ROLES"/>
+  <table-filter match-schema="GESTIONPROJETBACK" match-name="TACHES"/>
+</hibernate-reverse-engineering>
